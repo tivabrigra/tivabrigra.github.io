@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tivabrigra.github.io/sitemap.html.gz
+Sitemap: https://tivabrigra.github.io/app/sitemap.html.gz
+Sitemap: https://tivabrigra.github.io/assets/sitemap.html.gz
+Sitemap: https://tivabrigra.github.io/css/sitemap.html.gz
+Sitemap: https://tivabrigra.github.io/data/sitemap.html.gz
+Sitemap: https://tivabrigra.github.io/includes/sitemap.html.gz
+Sitemap: https://tivabrigra.github.io/item/sitemap.html.gz
+Sitemap: https://tivabrigra.github.io/src/sitemap.html.gz
